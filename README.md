@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hello! I'm Pranavi Yalala. I'm a Computer Science Engineering (AI & ML) student.
+I have a lot of interest in AI Engineering and related fields of study. Currently starting with Data Structures, C++ and Java programming.
+
+**Skills**: C | Generative AI | Prompt Engineering
+
+- 🔭 I’m currently working as a student
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 📫 How to reach me: pranaviyalala (LinkedIn)
+- 😄 Pronouns: she/ her
+
 <!--
 **pranavi-c1/pranavi-c1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
